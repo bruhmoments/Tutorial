@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AplikasiDatabase</string>
+    <string name="empty_list_text">Null</string>
+    <string name="enter_nama">Masukkan Nama!</string>
+    <string name="enter_kelas">Masukkan Kelas!</string>
+    <string name="add_record">Tambah data baru</string>
+    <string name="btn_update">Ubah</string>
+    <string name="btn_delete">Hapus</string>
+</resources>
